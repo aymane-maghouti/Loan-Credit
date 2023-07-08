@@ -33,23 +33,25 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/loan-credit-classification.git
+`git clone https://github.com/your-username/loan-credit-classification.git`
 
 2. Navigate to the project directory:
 
-cd Loan-credit
+`cd Loan-credit`
 
 3. Install the dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Usage
 Run the Flask application:
 
 python app.py
+
 Open your web browser and go to http://localhost:5000.
 you will be aable to see the 
 you will able to see this UI (user interface)
+
 ---
 ![Texte alternatif de l'image](Main/assets/UI.png)
 ---
