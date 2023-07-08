@@ -7,9 +7,6 @@ This project aims to develop a machine learning model using Logistic Regression 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
-- [Model Deployment](#model-deployment)
-- [License](#license)
 
 ## Project Overview
 
@@ -23,7 +20,9 @@ The project repository includes the following components:
 - `app.py`: The Flask application for deploying the trained model.
 - `requirements.txt`: A list of Python dependencies required to run the project.
 - `Loan Credit.ipynb` : The jupyter Notebook for building the model
+  
 The machine learning model builded is follow the following architecture :
+
 ---
 ![Texte alternatif de l'image](Main/assets/archi.png)
 ---
