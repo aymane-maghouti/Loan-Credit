@@ -19,7 +19,7 @@ The project repository includes the following components:
 - `model.pkl`: The serialized trained Logistic Regression model.
 - `app.py`: The Flask application for deploying the trained model.
 - `requirements.txt`: A list of Python dependencies required to run the project.
-- `Loan Credit.ipynb` : The jupyter Notebook for building the model
+- `Loan Credit.ipynb` : The jupyter Notebook for building the model.
   
 The machine learning model builded is follow the following architecture :
 
@@ -46,7 +46,7 @@ To set up the project environment, follow these steps:
 ## Usage
 Run the Flask application:
 
-python app.py
+`python app.py`
 
 Open your web browser and go to http://localhost:5000.
 you will be aable to see the 
