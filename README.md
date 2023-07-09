@@ -48,8 +48,7 @@ Run the Flask application:
 
 `python app.py`
 
-Open your web browser and go to http://localhost:5000.
-you will be aable to see the 
+Open your web browser and go to http://localhost:5000
 you will able to see this UI (user interface)
 
 ---
